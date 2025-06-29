@@ -1,3 +1,2 @@
-import lib.tools.say
-
-say()
+from . import abx_xyz
+print(abc_xyz)
